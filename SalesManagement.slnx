@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SalesManagement.BLL/SaleManagement.BLL.csproj" />
+  <Project Path="SalesManagement.DAL/SaleManagement.DAL.csproj" />
+  <Project Path="SalesManagement.Entity/SalesManagement.Entity.csproj" />
+  <Project Path="SalesManagement.UI/SalesManagement.UI.csproj" />
+</Solution>
